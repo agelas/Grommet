@@ -54,7 +54,12 @@ function App() {
               sidebar
           </Box>
         </Collapsible>
-          <Box flex align='center' justify='center'>
+          <Box 
+            flex 
+            align='center' 
+            justify='center' 
+            background = "url(https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png)"
+          >
             app body
           </Box>
         </Box>
